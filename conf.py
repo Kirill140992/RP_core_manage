@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ETAmoney docs'
+project = 'Core docs'
 copyright = '© Copyright 2019, Reactive-pay'
 author = 'Kirill'
 
